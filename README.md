@@ -1,13 +1,12 @@
-Resultats d’aprenentatge i criteris d’avaluació:
+Objects in Java:
 
-Escriu i prova programes senzills, reconeixent i aplicant els fonaments de la programació orientada a objectes
-Defineix correctament classes i objectes i entén els conceptes bàsics de programació orientada a objectes
- 
-Desenvolupa programes organitzats en classes analitzant i aplicant els principis de la programació orientada a objectes
-Desenvolupa programes que instancien i utilitzen objectes i classes
-Defineix i utilitza classes heretades i conjunts i llibreries de classes
- 
-Desenvolupa programes aplicant característiques avançades dels llenguatges orientats a objectes i de l'entorn de programació
-Utilitza l’herència i les seves jerarquies en un entorn professional de treball.
-Entén, defineix i implementa interfícies
+Let us now look deep into what are objects. If we consider the real-world we can find many objects around us, Cars, Dogs, Humans, etc. All these objects have a state and behavior.
+
+If we consider a dog, then its state is - name, breed, color, and the behavior is - barking, wagging, running
+
+If you compare the software object with a real world object, they have very similar characteristics.
+
+Software objects also have a state and behavior. A software object's state is stored in fields and behavior is shown via methods.
+
+So in software development, methods operate on the internal state of an object and the object-to-object communication is done via methods.
 
